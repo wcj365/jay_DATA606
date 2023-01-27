@@ -1,4 +1,5 @@
-# UMBC DATA606 Data Science Captstone
+# Project Report
+
 For your project proposal, please use the following questions to guide your writing:
 
 - What is your issue of interest (provide sufficient background information)?

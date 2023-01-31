@@ -1,4 +1,4 @@
-# Final Report
+# Project Report
 
 This should be well-formatted and well-styled using Markdown tags. 
 

@@ -1,4 +1,8 @@
-# Draft Proposal
+# Draft Proposal 
+
+This file is yourdraft proposal. 
+
+The following are the Guidelines. 
 
 For your project proposal, please use the following questions to guide your writing:
 
